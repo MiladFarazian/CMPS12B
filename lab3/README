@@ -1,0 +1,14 @@
+README
+LAB 3(FileReverse.c) by Milad Farazian, CMPS 12B
+Last edited: Jan 28th, 2019
+mfarazia@ucsc.edu
+
+README - Details content on assignment submission: Lab 3
+Makefile - Compiles FileReverse.c & contains commands: clean, check, submit
+	 - Assigns FileReverse.c, README. and Makefile as files to submit
+FileReverse.c - Produces an identical output as FileReverse.java, but uses
+		C programming language
+	      - Majority of code is provided by FileIO.c example found in
+	      	lab3 instructions (by Prof. Patrick Tantalo)
+	      - stringReverse() method was written by me, with some
+	        assistance from Thuan during Monday's 3-5pm lab session

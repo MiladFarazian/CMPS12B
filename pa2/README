@@ -1,0 +1,16 @@
+README
+Programming Assignment 2(Queens.java) by Milad Farazian, CMPS 12B
+Last edited: Feb 68th, 2019
+mfarazia@ucsc.edu
+
+README - Details content on assignment submission: pa2
+Makefile - Contains commands: clean, check, submit
+	 - Assigns Queens.java, README. and Makefile as files to submit
+Queens.java - Executes desired actions & print appropriate output for n-queens
+            - Recieved advice from Tucker during Wednesday's lab to create board()
+	      method which assisted in visualizing placeQueen() and removeQueen()
+	      properly.
+	    - Recieved some help from Alon (MSI) concerning the various loops
+	      needed for placeQueen() and removeQueen()
+	    - Consulted a piazza answer for placement of sum++ in my findSolutions()
+	      method.
